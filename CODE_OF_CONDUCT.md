@@ -64,7 +64,7 @@ For answers to common questions about this code of conduct, see the FAQ at https
 
 
 
-Contacting Method: (dhruv2552@yahoo.com)
+Contacting Method:
 
-- Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [your-email@example.com]. All complaints will be reviewed and investigated and will result in a 
+- Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at (dhruv2552@yahoo.com). All complaints will be reviewed and investigated and will result in a 
   response that is deemed necessary and appropriate to the circumstances.
